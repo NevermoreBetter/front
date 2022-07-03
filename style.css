@@ -132,9 +132,7 @@ h6 {
     align-self: center;
 }
 
-.bg{
-    background: url(/img/paul-green-gOHfFgwyDNM-unsplash.jpg) center/cover no-repeat fixed;
-}
+.fullscreen-bg {background: url(/img/braden-collum-9HI8UJMSdZA-unsplash.jpg) center/cover no-repeat fixed;}
 
 .content__body {
     max-width: 1000px;
